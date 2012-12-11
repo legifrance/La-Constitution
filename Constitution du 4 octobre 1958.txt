@@ -73,9 +73,7 @@ Le Conseil Constitutionnel peut proroger les délais prévus aux troisième et c
 Il ne peut être fait application ni des articles 49 et 50 ni de l'article 89 de la Constitution durant la vacance de la Présidence de la République ou durant la période qui s'écoule entre la déclaration du caractère définitif de l'empêchement du Président de la République et l'élection de son successeur.
 
 Article 8
-Le Président de la République nomme le Premier Ministre. Il met fin à ses fonctions sur la présentation par celui-ci de la démission du Gouvernement.
-
-Sur la proposition du Premier Ministre, il nomme les autres membres du Gouvernement et met fin à leurs fonctions.
+Le Président de la République nomme les membres du Gouvernement et met fin à leurs fonctions.
 
 Article 9
 Le Président de la République préside le Conseil des Ministres.
@@ -107,13 +105,7 @@ Lorsque la proposition de loi n'est pas adoptée par le peuple français, aucune
 Lorsque le référendum a conclu à l'adoption du projet ou de la proposition de loi, le Président de la République promulgue la loi dans les quinze jours qui suivent la proclamation des résultats de la consultation.]
 
 Article 12
-Le Président de la République peut, après consultation du Premier Ministre et des Présidents des assemblées, prononcer la dissolution de l'Assemblée Nationale.
 
-Les élections générales ont lieu vingt jours au moins et quarante jours au plus après la dissolution.
-
-L'Assemblée Nationale se réunit de plein droit le deuxième jeudi qui suit son élection. Si cette réunion a lieu en dehors de la période prévue pour la session ordinaire, une session est ouverte de droit pour une durée de quinze jours.
-
-Il ne peut être procédé à une nouvelle dissolution dans l'année qui suit ces élections.
 
 Article 13
 Le Président de la République signe les ordonnances et les décrets délibérés en Conseil des Ministres.
@@ -133,7 +125,7 @@ Article 15
 Le Président de la République est le chef des armées. Il préside les conseils et les comités supérieurs de la Défense Nationale.
 
 Article 16
-Lorsque les institutions de la République, l'indépendance de la Nation, l'intégrité de son territoire ou l'exécution de ses engagements internationaux sont menacées d'une manière grave et immédiate et que le fonctionnement régulier des pouvoirs publics constitutionnels est interrompu, le Président de la République prend les mesures exigées par ces circonstances, après consultation officielle du Premier Ministre, des Présidents des assemblées ainsi que du Conseil Constitutionnel.
+Lorsque les institutions de la République, l'indépendance de la Nation, l'intégrité de son territoire ou l'exécution de ses engagements internationaux sont menacées d'une manière grave et immédiate et que le fonctionnement régulier des pouvoirs publics constitutionnels est interrompu, le Président de la République prend les mesures exigées par ces circonstances, après consultation officielle des Présidents des assemblées ainsi que du Conseil Constitutionnel.
 
 Il en informe la Nation par un message.
 
@@ -164,19 +156,17 @@ Le Gouvernement détermine et conduit la politique de la Nation.
 
 Il dispose de l'administration et de la force armée.
 
-Il est responsable devant le Parlement dans les conditions et suivant les procédures prévues aux articles 49 et 50.
+
 
 Article 21
-Le Premier Ministre dirige l'action du Gouvernement. Il est responsable de la Défense Nationale. Il assure l'exécution des lois. Sous réserve des dispositions de l'article 13, il exerce le pouvoir réglementaire et nomme aux emplois civils et militaires.
+Le Président de la République dirige l'action du Gouvernement. Il est responsable de la Défense Nationale. Il assure l'exécution des lois. Il exerce le pouvoir réglementaire et nomme aux emplois civils et militaires.
 
 Il peut déléguer certains de ses pouvoirs aux ministres.
 
-Il supplée, le cas échéant, le Président de la République dans la présidence des conseils et comités prévus à l'article 15.
 
-Il peut, à titre exceptionnel, le suppléer pour la présidence d'un Conseil des Ministres en vertu d'une délégation expresse et pour un ordre du jour déterminé.
 
 Article 22
-Les actes du Premier Ministre sont contresignés, le cas échéant, par les ministres chargés de leur exécution.
+Les actes du Président de la République sont contresignés, le cas échéant, par les ministres chargés de leur exécution.
 
 Article 23
 Les fonctions de membre du Gouvernement sont incompatibles avec l'exercice de tout mandat parlementaire, de toute fonction de représentation professionnelle à caractère national et de tout emploi public ou de toute activité professionnelle.
@@ -191,7 +181,7 @@ Le Parlement vote la loi. Il contrôle l'action du Gouvernement. Il évalue les 
 
 Il comprend l'Assemblée nationale et le Sénat.
 
-Les députés à l'Assemblée nationale, dont le nombre ne peut excéder cinq cent soixante-dix-sept, sont élus au suffrage direct.
+Les députés à l'Assemblée nationale, dont le nombre ne peut excéder cinq cent soixante-dix-sept, sont élus au suffrage proportionnel.
 
 Le Sénat, dont le nombre de membres ne peut excéder trois cent quarante-huit, est élu au suffrage indirect. Il assure la représentation des collectivités territoriales de la République.
 
@@ -214,23 +204,23 @@ La détention, les mesures privatives ou restrictives de liberté ou la poursuit
 L'assemblée intéressée est réunie de plein droit pour des séances supplémentaires pour permettre, le cas échéant, l'application de l'alinéa ci-dessus.
 
 Article 27
-Tout mandat impératif est nul. Le droit de vote des membres du Parlement est personnel. La loi organique peut autoriser exceptionnellement la délégation de vote. Dans ce cas nul ne peut recevoir délégation de plus d'un mandat.
+Tout mandat impératif est nul. Le droit de vote des membres du Parlement est personnel. La loi organique peut autoriser exceptionnellement la délégation de vote. Dans ce cas nul ne peut recevoir délégation de plus d'un mandat. En cas de vote d'une loi discutée en commission parlementaire, nul membre de ladite commission ne peut déléguer son vote.
 
 Article 28
 Le Parlement se réunit de plein droit en une session ordinaire qui commence le premier jour ouvrable d'octobre et prend fin le dernier jour ouvrable de juin.
 
 Le nombre de jours de séance que chaque assemblée peut tenir au cours de la session ordinaire ne peut excéder cent vingt. Les semaines de séance sont fixées par chaque assemblée.
 
-Le Premier ministre, après consultation du président de l'assemblée concernée, ou la majorité des membres de chaque assemblée peut décider la tenue de jours supplémentaires de séance.
+Le Président de la République, après consultation du président de l'assemblée concernée, ou la majorité des membres de chaque assemblée peut décider la tenue de jours supplémentaires de séance.
 
 Les jours et les horaires des séances sont déterminés par le règlement de chaque assemblée.
 
 Article 29
-Le Parlement est réuni en session extraordinaire à la demande du Premier Ministre ou de la majorité des membres composant l'Assemblée Nationale, sur un ordre du jour déterminé.
+Le Parlement est réuni en session extraordinaire à la demande du Président de la République ou de la majorité des membres composant l'Assemblée Nationale, sur un ordre du jour déterminé.
 
 Lorsque la session extraordinaire est tenue à la demande des membres de l'Assemblée Nationale, le décret de clôture intervient dès que le Parlement a épuisé l'ordre du jour pour lequel il a été convoqué et au plus tard douze jours à compter de sa réunion.
 
-Le Premier Ministre peut seul demander une nouvelle session avant l'expiration du mois qui suit le décret de clôture.
+Le Président de la République peut seul demander une nouvelle session avant l'expiration du mois qui suit le décret de clôture.
 
 Article 30
 Hors les cas dans lesquels le Parlement se réunit de plein droit, les sessions extraordinaires sont ouvertes et closes par décret du Président de la République.
@@ -246,7 +236,7 @@ Le Président de l'Assemblée Nationale est élu pour la durée de la législatu
 Article 33
 Les séances des deux assemblées sont publiques. Le compte rendu intégral des débats est publié au Journal officiel.
 
-Chaque assemblée peut siéger en comité secret à la demande du Premier Ministre ou d'un dixième de ses membres.
+Chaque assemblée peut siéger en comité secret à la demande du Président de la République ou d'un dixième de ses membres.
 
 Titre V - Des rapports entre le Parlement et le Gouvernement
 Article 34
@@ -315,13 +305,13 @@ Les ordonnances sont prises en Conseil des Ministres après avis du Conseil d'É
 A l'expiration du délai mentionné au premier alinéa du présent article, les ordonnances ne peuvent plus être modifiées que par la loi dans les matières qui sont du domaine législatif.
 
 Article 39
-L'initiative des lois appartient concurremment au Premier Ministre et aux membres du Parlement.
+L'initiative des lois appartient concurremment au Président de la République et aux membres du Parlement.
 
 Les projets de loi sont délibérés en Conseil des Ministres après avis du Conseil d'État et déposés sur le bureau de l'une des deux assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée nationale. Sans préjudice du premier alinéa de l'article 44, les projets de loi ayant pour principal objet l'organisation des collectivités territoriales sont soumis en premier lieu au Sénat.
 
 La présentation des projets de loi déposés devant l'Assemblée nationale ou le Sénat répond aux conditions fixées par une loi organique.
 
-Les projets de loi ne peuvent être inscrits à l'ordre du jour si la Conférence des présidents de la première assemblée saisie constate que les règles fixées par la loi organique sont méconnues. En cas de désaccord entre la Conférence des présidents et le Gouvernement, le président de l'assemblée intéressée ou le Premier ministre peut saisir le Conseil constitutionnel qui statue dans un délai de huit jours.
+Les projets de loi ne peuvent être inscrits à l'ordre du jour si la Conférence des présidents de la première assemblée saisie constate que les règles fixées par la loi organique sont méconnues. En cas de désaccord entre la Conférence des présidents et le Gouvernement, le président de l'assemblée intéressée ou le Président de la République peut saisir le Conseil constitutionnel qui statue dans un délai de huit jours.
 
 Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, avant son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée, sauf si ce dernier s'y oppose.
 
@@ -357,7 +347,7 @@ Si le Gouvernement le demande, l'assemblée saisie se prononce par un seul vote 
 Article 45
 Tout projet ou proposition de loi est examiné successivement dans les deux assemblées du Parlement en vue de l'adoption d'un texte identique. Sans préjudice de l'application des articles 40 et 41, tout amendement est recevable en première lecture dès lors qu'il présente un lien, même indirect, avec le texte déposé ou transmis.
 
-Lorsque, par suite d'un désaccord entre les deux assemblées, un projet ou une proposition de loi n'a pu être adopté après deux lectures par chaque assemblée ou, si le Gouvernement a décidé d'engager la procédure accélérée sans que les Conférences des présidents s'y soient conjointement opposées, après une seule lecture par chacune d'entre elles, le Premier ministre ou, pour une proposition de loi, les présidents des deux assemblées agissant conjointement, ont la faculté de provoquer la réunion d'une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.
+Lorsque, par suite d'un désaccord entre les deux assemblées, un projet ou une proposition de loi n'a pu être adopté après deux lectures par chaque assemblée ou, si le Gouvernement a décidé d'engager la procédure accélérée sans que les Conférences des présidents s'y soient conjointement opposées, après une seule lecture par chacune d'entre elles, le Président de la République ou, pour une proposition de loi, les présidents des deux assemblées agissant conjointement, ont la faculté de provoquer la réunion d'une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.
 
 Le texte élaboré par la commission mixte peut être soumis par le Gouvernement pour approbation aux deux assemblées. Aucun amendement n'est recevable sauf accord du Gouvernement.
 
@@ -413,22 +403,16 @@ Un jour de séance par mois est réservé à un ordre du jour arrêté par chaqu
 Une séance par semaine au moins, y compris pendant les sessions extraordinaires prévues à l'article 29, est réservée par priorité aux questions des membres du Parlement et aux réponses du Gouvernement.
 
 Article 49
-Le Premier Ministre, après délibération du Conseil des Ministres, engage devant l'Assemblée Nationale la responsabilité du Gouvernement sur son programme ou éventuellement sur une déclaration de politique générale.
 
-L'Assemblée Nationale met en cause la responsabilité du Gouvernement par le vote d'une motion de censure. Une telle motion n'est recevable que si elle est signée par un dixième au moins des membres de l'Assemblée Nationale. Le vote ne peut avoir lieu que quarante-huit heures après son dépôt. Seuls sont recensés les votes favorables à la motion de censure qui ne peut être adoptée qu'à la majorité des membres composant l'Assemblée. Sauf dans le cas prévu à l'alinéa ci-dessous, un député ne peut être signataire de plus de trois motions de censure au cours d'une même session ordinaire et de plus d'une au cours d'une même session extraordinaire.
-
-Le Premier Ministre peut, après délibération du Conseil des Ministres, engager la responsabilité du Gouvernement devant l'Assemblée Nationale sur le vote d'un projet de loi de finances ou de financement de la sécurité sociale. Dans ce cas, ce projet est considéré comme adopté, sauf si une motion de censure, déposée dans les vingt-quatre heures qui suivent, est votée dans les conditions prévues à l'alinéa précédent. Le Premier ministre peut, en outre, recourir à cette procédure pour un autre projet ou une proposition de loi par session.
-
-Le Premier Ministre a la faculté de demander au Sénat l'approbation d'une déclaration de politique générale.
 
 Article 50
-Lorsque l'Assemblée Nationale adopte une motion de censure ou lorsqu'elle désapprouve le programme ou une déclaration de politique générale du Gouvernement, le Premier Ministre doit remettre au Président de la République la démission du Gouvernement.
+
 
 Article 50-1
-Devant l'une ou l'autre des assemblées, le Gouvernement peut, de sa propre initiative ou à la demande d'un groupe parlementaire au sens de l'article 51-1, faire, sur un sujet déterminé, une déclaration qui donne lieu à débat et peut, s'il le décide, faire l'objet d'un vote sans engager sa responsabilité.
+Devant l'une ou l'autre des assemblées, le Gouvernement peut, de sa propre initiative ou à la demande d'un groupe parlementaire au sens de l'article 51-1, faire, sur un sujet déterminé, une déclaration qui donne lieu à débat et peut, s'il le décide, faire l'objet d'un vote. L'avis issu du vote est simple.
 
 Article 51
-La clôture de la session ordinaire ou des sessions extraordinaires est de droit retardée pour permettre, le cas échéant, l'application de l'article 49. A cette même fin, des séances supplémentaires sont de droit.
+
 
 Article 51-1
 Le règlement de chaque assemblée détermine les droits des groupes parlementaires constitués en son sein. Il reconnaît des droits spécifiques aux groupes d'opposition de l'assemblée intéressée ainsi qu'aux groupes minoritaires.
@@ -460,7 +444,7 @@ Article 53-2
 La République peut reconnaître la juridiction de la Cour pénale internationale dans les conditions prévues par le traité signé le 18 juillet 1998.
 
 Article 54
-Si le Conseil Constitutionnel, saisi par le Président de la République, par le Premier Ministre, par le Président de l'une ou l'autre assemblée ou par soixante députés ou soixante sénateurs , a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après révision de la Constitution.
+Si le Conseil Constitutionnel, saisi par le Président de la République, par le Président de l'une ou l'autre assemblée ou par soixante députés ou soixante sénateurs , a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après révision de la Constitution.
 
 Article 55
 Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par l'autre partie.
@@ -490,7 +474,7 @@ Le Conseil Constitutionnel veille à la régularité des opérations de référe
 Article 61
 Les lois organiques, avant leur promulgation, les propositions de loi mentionnées à l'article 11 avant qu'elles ne soient soumises au référendum, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil Constitutionnel qui se prononce sur leur conformité à la Constitution.
 
-Aux mêmes fins, les lois peuvent être déférées au Conseil Constitutionnel, avant leur promulgation, par le Président de la République, le Premier Ministre, le Président de l'Assemblée Nationale, le Président du Sénat ou soixante députés ou soixante sénateurs.
+Aux mêmes fins, les lois peuvent être déférées au Conseil Constitutionnel, avant leur promulgation, par le Président de la République, le Président de l'Assemblée Nationale, le Président du Sénat ou soixante députés ou soixante sénateurs.
 
 Dans les cas prévus aux deux alinéas précédents, le Conseil Constitutionnel doit statuer dans le délai d'un mois. Toutefois, à la demande du Gouvernement, s'il y a urgence, ce délai est ramené à huit jours.
 
@@ -770,7 +754,7 @@ Par le vote d'une motion adoptée en termes identiques par l'Assemblée national
 
 Titre XVI - De la Révision
 Article 89
-L'initiative de la révision de la Constitution appartient concurremment au Président de la République sur proposition du Premier Ministre et aux membres du Parlement.
+L'initiative de la révision de la Constitution appartient concurremment au Président de la République et aux membres du Parlement.
 
 Le projet ou la proposition de révision doit être examiné dans les conditions de délai fixées au troisième alinéa de l'article 42 et voté par les deux assemblées en termes identiques. La révision est définitive après avoir été approuvée par référendum.
 
