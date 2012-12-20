@@ -286,9 +286,11 @@ Les assemblées peuvent voter des résolutions dans les conditions fixées par l
 Sont irrecevables et ne peuvent être inscrites à l'ordre du jour les propositions de résolution dont le Gouvernement estime que leur adoption ou leur rejet serait de nature à mettre en cause sa responsabilité ou qu'elles contiennent des injonctions à son égard.
 
 Article 35
-La déclaration de guerre est autorisée par le Parlement.
+La déclaration de guerre est autorisée par le Parlement et par le Peuple.
 
-Le Gouvernement informe le Parlement de sa décision de faire intervenir les forces armées à l'étranger, au plus tard trois jours après le début de l'intervention. Il précise les objectifs poursuivis. Cette information peut donner lieu à un débat qui n'est suivi d'aucun vote.
+Le Gouvernement informe le Parlement de sa décision de faire intervenir les forces armées à l'étranger avant toute intervention. Il précise les objectifs poursuivis. Cette information donne lieu à un débat au parlement et à un débat national. Ce débat est suivi d'un vote au parlement, et d'un referendum. 
+
+Pour que la déclaration de guerre entre en vigueur, l'approbation du peuple (referendum) et l'approbation du parlement sont nécessaires. 
 
 Lorsque la durée de l'intervention excède quatre mois, le Gouvernement soumet sa prolongation à l'autorisation du Parlement. Il peut demander à l'Assemblée nationale de décider en dernier ressort.
 
