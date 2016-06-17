@@ -88,7 +88,7 @@ Il peut, avant l'expiration de ce délai, demander au Parlement une nouvelle dé
 Article 11
 Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux assemblées, publiées au Journal Officiel, peut soumettre au référendum tout projet de loi portant sur l'organisation des pouvoirs publics, sur des réformes relatives à la politique économique, sociale ou environnementale de la nation et aux services publics qui y concourent, ou tendant à autoriser la ratification d'un traité qui, sans être contraire à la Constitution, aurait des incidences sur le fonctionnement des institutions.
 
-Lorsque le référendum est organisé sur proposition du Gouvernement, celui-ci fait, devant chaque assemblée, une déclaration qui est suivie d'un débat. 
+Lorsque le référendum est organisé sur proposition du Gouvernement, celui-ci fait, devant chaque assemblée, une déclaration qui est suivie d'un débat.
 
 Lorsque le référendum a conclu à l'adoption du projet de loi, le Président de la République promulgue la loi dans les quinze jours qui suivent la proclamation des résultats de la consultation.
 
@@ -366,7 +366,7 @@ Si la commission mixte ne parvient pas à l'adoption d'un texte commun ou si ce 
 Article 46
 Les lois auxquelles la Constitution confère le caractère de lois organiques sont votées et modifiées dans les conditions suivantes.
 
-Le projet ou la proposition ne peut, en première lecture, être soumis à la délibération et au vote des assemblées qu'à l'expiration des délais fixés au troisième alinéa de l'article 42. Toutefois, si la procédure accélérée a été engagée dans les conditions prévues à l'article 45, le projet ou la proposition ne peut être soumis à la délibération de la première assemblée saisie avant l'expiration d'un délai de quinze jours après son dépôt. 
+Le projet ou la proposition ne peut, en première lecture, être soumis à la délibération et au vote des assemblées qu'à l'expiration des délais fixés au troisième alinéa de l'article 42. Toutefois, si la procédure accélérée a été engagée dans les conditions prévues à l'article 45, le projet ou la proposition ne peut être soumis à la délibération de la première assemblée saisie avant l'expiration d'un délai de quinze jours après son dépôt.
 
 La procédure de l'article 45 est applicable. Toutefois, faute d'accord entre les deux assemblées, le texte ne peut être adopté par l'Assemblée Nationale en dernière lecture qu'à la majorité absolue de ses membres.
 
@@ -416,8 +416,6 @@ Article 49
 Le Premier Ministre, après délibération du Conseil des Ministres, engage devant l'Assemblée Nationale la responsabilité du Gouvernement sur son programme ou éventuellement sur une déclaration de politique générale.
 
 L'Assemblée Nationale met en cause la responsabilité du Gouvernement par le vote d'une motion de censure. Une telle motion n'est recevable que si elle est signée par un dixième au moins des membres de l'Assemblée Nationale. Le vote ne peut avoir lieu que quarante-huit heures après son dépôt. Seuls sont recensés les votes favorables à la motion de censure qui ne peut être adoptée qu'à la majorité des membres composant l'Assemblée. Sauf dans le cas prévu à l'alinéa ci-dessous, un député ne peut être signataire de plus de trois motions de censure au cours d'une même session ordinaire et de plus d'une au cours d'une même session extraordinaire.
-
-Le Premier Ministre peut, après délibération du Conseil des Ministres, engager la responsabilité du Gouvernement devant l'Assemblée Nationale sur le vote d'un projet de loi de finances ou de financement de la sécurité sociale. Dans ce cas, ce projet est considéré comme adopté, sauf si une motion de censure, déposée dans les vingt-quatre heures qui suivent, est votée dans les conditions prévues à l'alinéa précédent. Le Premier ministre peut, en outre, recourir à cette procédure pour un autre projet ou une proposition de loi par session.
 
 Le Premier Ministre a la faculté de demander au Sénat l'approbation d'une déclaration de politique générale.
 
@@ -734,7 +732,7 @@ La République participe au développement de la solidarité et de la coopérati
 Article 88
 La République peut conclure des accords avec des États qui désirent s'associer à elle pour développer leurs civilisations.
 
-Titre XV - De l'Union européenne 
+Titre XV - De l'Union européenne
 Article 88-1
 La République participe à l'Union européenne constituée d'États qui ont choisi librement d'exercer en commun certaines de leurs compétences en vertu du traité sur l'Union européenne et du traité sur le fonctionnement de l'Union européenne, tels qu'ils résultent du traité signé à Lisbonne le 13 décembre 2007.
 
