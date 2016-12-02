@@ -21,7 +21,7 @@ La devise de la République est "Liberté, Égalité, Fraternité".
 Son principe est : gouvernement du peuple, par le peuple et pour le peuple.
 
 Article 3
-La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum.
+La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum d’initiative citoyenne, en toutes matières y compris constitutionnelle et de ratification des traités ; cet article ne peut être modifié que par voie référendaire.
 
 Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice.
 
@@ -86,25 +86,7 @@ Le Président de la République promulgue les lois dans les quinze jours qui sui
 Il peut, avant l'expiration de ce délai, demander au Parlement une nouvelle délibération de la loi ou de certains de ses articles. Cette nouvelle délibération ne peut être refusée.
 
 Article 11
-Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux assemblées, publiées au Journal Officiel, peut soumettre au référendum tout projet de loi portant sur l'organisation des pouvoirs publics, sur des réformes relatives à la politique économique, sociale ou environnementale de la nation et aux services publics qui y concourent, ou tendant à autoriser la ratification d'un traité qui, sans être contraire à la Constitution, aurait des incidences sur le fonctionnement des institutions.
-
-Lorsque le référendum est organisé sur proposition du Gouvernement, celui-ci fait, devant chaque assemblée, une déclaration qui est suivie d'un débat. 
-
-Lorsque le référendum a conclu à l'adoption du projet de loi, le Président de la République promulgue la loi dans les quinze jours qui suivent la proclamation des résultats de la consultation.
-
-[Entrée en vigueur dans les conditions fixées par les lois et lois organiques nécessaires à leur application (article 46-I de la loi constitutionnelle n° 2008-724 du 23 juillet 2008). Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux Assemblées, publiées au Journal Officiel, peut soumettre au référendum tout projet de loi portant sur l'organisation des pouvoirs publics, sur des réformes relatives à la politique économique, sociale ou environnementale de la nation et aux services publics qui y concourent, ou tendant à autoriser la ratification d'un traité qui, sans être contraire à la Constitution, aurait des incidences sur le fonctionnement des institutions.
-
-Lorsque le référendum est organisé sur proposition du Gouvernement, celui-ci fait, devant chaque assemblée, une déclaration qui est suivie d'un débat.
-
-Un référendum portant sur un objet mentionné au premier alinéa peut être organisé à l'initiative d'un cinquième des membres du Parlement, soutenue par un dixième des électeurs inscrits sur les listes électorales. Cette initiative prend la forme d'une proposition de loi et ne peut avoir pour objet l'abrogation d'une disposition législative promulguée depuis moins d'un an.
-
-Les conditions de sa présentation et celles dans lesquelles le Conseil constitutionnel contrôle le respect des dispositions de l'alinéa précédent sont déterminées par une loi organique.
-
-Si la proposition de loi n'a pas été examinée par les deux assemblées dans un délai fixé par la loi organique, le Président de la République la soumet au référendum.
-
-Lorsque la proposition de loi n'est pas adoptée par le peuple français, aucune nouvelle proposition de référendum portant sur le même sujet ne peut être présentée avant l'expiration d'un délai de deux ans suivant la date du scrutin.
-
-Lorsque le référendum a conclu à l'adoption du projet ou de la proposition de loi, le Président de la République promulgue la loi dans les quinze jours qui suivent la proclamation des résultats de la consultation.]
+(article supprimé)
 
 Article 12
 Le Président de la République peut, après consultation du Premier Ministre et des Présidents des assemblées, prononcer la dissolution de l'Assemblée Nationale.
@@ -187,7 +169,7 @@ Le remplacement des membres du Parlement a lieu conformément aux dispositions d
 
 Titre IV - Le Parlement
 Article 24
-Le Parlement vote la loi. Il contrôle l'action du Gouvernement. Il évalue les politiques publiques.
+La loi est votée par le Parlement ou par référendum d’initiative citoyenne. Le Parlement contrôle l'action du Gouvernement. Il évalue les politiques publiques.
 
 Il comprend l'Assemblée nationale et le Sénat.
 
@@ -315,7 +297,7 @@ Les ordonnances sont prises en Conseil des Ministres après avis du Conseil d'É
 A l'expiration du délai mentionné au premier alinéa du présent article, les ordonnances ne peuvent plus être modifiées que par la loi dans les matières qui sont du domaine législatif.
 
 Article 39
-L'initiative des lois appartient concurremment au Premier Ministre et aux membres du Parlement.
+L’initiative des lois appartient concurremment au Premier ministre, aux membres du Parlement et aux citoyens.
 
 Les projets de loi sont délibérés en Conseil des Ministres après avis du Conseil d'État et déposés sur le bureau de l'une des deux assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée nationale. Sans préjudice du premier alinéa de l'article 44, les projets de loi ayant pour principal objet l'organisation des collectivités territoriales sont soumis en premier lieu au Sénat.
 
@@ -485,7 +467,7 @@ Article 59
 Le Conseil Constitutionnel statue, en cas de contestation, sur la régularité de l'élection des députés et des sénateurs.
 
 Article 60
-Le Conseil Constitutionnel veille à la régularité des opérations de référendum prévues aux articles 11 et 89 et au titre XV. Il en proclame les résultats.
+Le Conseil Constitutionnel veille à la régularité des opérations de référendum prévues aux articles 3 et 89 et au titre XV. Il en proclame les résultats.
 
 Article 61
 Les lois organiques, avant leur promulgation, les propositions de loi mentionnées à l'article 11 avant qu'elles ne soient soumises au référendum, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil Constitutionnel qui se prononce sur leur conformité à la Constitution.
@@ -770,11 +752,13 @@ Par le vote d'une motion adoptée en termes identiques par l'Assemblée national
 
 Titre XVI - De la Révision
 Article 89
-L'initiative de la révision de la Constitution appartient concurremment au Président de la République sur proposition du Premier Ministre et aux membres du Parlement.
+L’initiative de la révision de la Constitution appartient concurremment au Président de la République sur proposition du Premier ministre, aux membres du Parlement et aux citoyens.
 
 Le projet ou la proposition de révision doit être examiné dans les conditions de délai fixées au troisième alinéa de l'article 42 et voté par les deux assemblées en termes identiques. La révision est définitive après avoir été approuvée par référendum.
 
-Toutefois, le projet de révision n'est pas présenté au référendum lorsque le Président de la République décide de le soumettre au Parlement convoqué en Congrès ; dans ce cas, le projet de révision n'est approuvé que s'il réunit la majorité des trois cinquièmes des suffrages exprimés. Le bureau du Congrès est celui de l'Assemblée Nationale.
+Toutefois, le projet de révision n'est pas présenté au référendum lorsque le Président de la République décide de le soumettre au Parlement convoqué en Congrès ; dans ce cas, le projet de révision n'est approuvé que s'il réunit la majorité des trois cinquièmes des suffrages exprimés. Le bureau du Congrès est celui de l'Assemblée nationale.
+
+L’initiative citoyenne de révision de la Constitution est définitive si elle a obtenu lors de la consultation la majorité des trois cinquième des suffrages exprimés.
 
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire.
 
